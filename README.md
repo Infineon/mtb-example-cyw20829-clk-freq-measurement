@@ -4,13 +4,13 @@ This code example demonstrates how a clock measurement counter can be used to me
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-cyw20829-clk-freq-measurement)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzY2NDEiLCJTcGVjIE51bWJlciI6IjAwMi0zNjY0MSIsIkRvYyBUaXRsZSI6IkNZVzIwODI5IGNsb2NrIGZyZXF1ZW5jeSBtZWFzdXJlbWVudCIsInJpZCI6Inlha2t1bmRpIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzY2NDEiLCJTcGVjIE51bWJlciI6IjAwMi0zNjY0MSIsIkRvYyBUaXRsZSI6IkNZVzIwODI5IGNsb2NrIGZyZXF1ZW5jeSBtZWFzdXJlbWVudCIsInJpZCI6Inlha2t1bmRpIiwiRG9jIHZlcnNpb24iOiIxLjEuMSIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
 
 ## Requirements
 
 - [ModusToolbox&trade; software](https://www.infineon.com/modustoolbox) v3.0 or later (tested with v3.0)
 - Board support package (BSP) minimum required version for:
-   - CYW920829M2EVK-02: v1.0.0.Beta4
+   - CYW920829M2EVK-02: v1.0.1
 - Programming language: C
 - Associated parts: [AIROC&trade; CYW20829 Bluetooth&reg; LE SoC](https://www.infineon.com/cms/en/product/promopages/airoc20829)
 
@@ -22,7 +22,7 @@ This code example demonstrates how a clock measurement counter can be used to me
 
 ## Supported kits (make variable 'TARGET')
 
-- AIROC&trade; CYW20829 Bluetooth&reg; LE evaluation kit (`CYW920829M2EVK-02`) - Default value of `TARGET`
+- [AIROC&trade; CYW20829 Bluetooth&reg; LE evaluation kit](https://www.infineon.com/CYW920829M2EVK-02) (`CYW920829M2EVK-02`) - Default value of `TARGET`
 
 
 ## Hardware setup
@@ -235,7 +235,8 @@ Document title: *CE236641* – *CYW20829 clock frequency measurement*
 | Version | Description of change |
 | ------- | --------------------- |
 | 1.0.0   | New code example      |
-| 1.1.0   | Removed CYW920829M2EVB-01 as supported kit <br> Added support for CYW920829M2EVK-02
+| 1.1.0   | Removed CYW920829M2EVB-01 as supported kit <br> Added support for CYW920829M2EVK-02 |
+| 1.1.1   | Readme Updated |
 
 <br />
 

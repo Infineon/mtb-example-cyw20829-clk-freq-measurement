@@ -4,7 +4,7 @@ This code example demonstrates how a clock measurement counter can be used to me
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-cyw20829-clk-freq-measurement)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzY2NDEiLCJTcGVjIE51bWJlciI6IjAwMi0zNjY0MSIsIkRvYyBUaXRsZSI6IkNZVzIwODI5Lzg5ODI5IGNsb2NrIGZyZXF1ZW5jeSBtZWFzdXJlbWVudCIsInJpZCI6Inlha2t1bmRpIiwiRG9jIHZlcnNpb24iOiIxLjIuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzY2NDEiLCJTcGVjIE51bWJlciI6IjAwMi0zNjY0MSIsIkRvYyBUaXRsZSI6IkNZVzIwODI5Lzg5ODI5IGNsb2NrIGZyZXF1ZW5jeSBtZWFzdXJlbWVudCIsInJpZCI6Inlha2t1bmRpIiwiRG9jIHZlcnNpb24iOiIxLjIuMSIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
 
 ## Requirements
 
@@ -252,6 +252,7 @@ Document title: *CE236641* – *CYW20829 clock frequency measurement*
 | 1.1.0   | Removed CYW920829M2EVB-01 as supported kit <br> Added support for CYW920829M2EVK-02 |
 | 1.1.1   | Readme Updated |
 | 1.2.0   | Added support for CYW989829M2EVB-01 |
+| 1.2.1   | Updated MPN CYW89829B0232 to CYW89829B1232 and fixed the application free run doesn't work |
 <br />
 
 All referenced product or service names and trademarks are the property of their respective owners.

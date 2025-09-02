@@ -10,7 +10,7 @@
 *
 *
 ********************************************************************************
-* Copyright 2021-2024, Cypress Semiconductor Corporation (an Infineon company) or
+* Copyright 2021-2025, Cypress Semiconductor Corporation (an Infineon company) or
 * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
 *
 * This software, including source code, documentation and related
@@ -107,9 +107,6 @@ int main(void)
     {
         CY_ASSERT(0);
     }
-
-    /* Set up internal routing, pins and clock-to-peripheral connections */
-    init_cycfg_all();
 
     /* \x1b[2J\x1b[;H - ANSI ESC sequence for clear screen */
     printf("\x1b[2J\x1b[;H");
